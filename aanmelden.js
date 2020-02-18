@@ -14,6 +14,7 @@ document.getElementById("Registreren").onclick = new function() {
 
     if (invoerCorrect) {
         toevoegen();
+        whatever();
 
     }
 }
